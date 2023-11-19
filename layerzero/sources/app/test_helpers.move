@@ -1,6 +1,6 @@
 #[test_only]
 module layerzero::test_helpers {
-    use layerzero::uln_receive;
+    use layerzero::uln_receive15;
     use layerzero::msglib_v1_0;
     use layerzero::uln_config;
     use layerzero::uln_signer;
